@@ -1,0 +1,162 @@
+header{
+    background: url("img/header-bg.png");
+}
+.titre_principal{
+    color: white;
+    display: inline-block;
+    margin-right: 25%;
+    text-align: justify;
+    padding-left: 20%;
+    ;
+}
+.titre_secondaire{
+    display: inline-block;
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    top: 7%;
+    ;
+}
+.titre_secondaire h1{
+    margin-bottom: 0px;
+    font-weight: normal;
+
+}
+.titre_secondaire h2{
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right : 3px;
+    font-size: 15px;
+    color: #699AC9;
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    width: 80%;
+}
+.titre_principal h1{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-size: 60px;
+}
+.titre_principal h2{
+    font-weight: normal;
+    
+}
+.titre_principal h3{
+    text-align: center;
+}
+section{
+    width:98%;
+    background-color: white;
+    
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    position: relative;
+}
+nav{
+    display: inline-block;
+    margin-right: 400px;
+}
+
+
+section nav p{
+    background-color: #E7E8E9;
+    width: 350px;
+    padding-top:4%;
+    padding-bottom: 4%;
+    text-align: center;
+    margin-bottom:-3%;
+}
+.titre1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 12px;
+}
+#titre_1{
+    background-color: #CD6666;
+    color: white;
+}
+.titre2{
+    position: absolute;
+    top: 360px;
+}
+#titre_2{
+    background-color: #CB9865;
+    color: white;
+    font-weight: 500;
+    
+}
+aside{
+    display: inline-block;
+    margin-top: -1%;
+    ;
+}
+aside h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.colonne1, .colonne2, .colonne3{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    margin-top:-5%;
+
+}
+.image{
+    vertical-align: -50%;
+    text-align: center;
+    padding-left: 70px;
+    margin-top: -7%;
+    margin-right: 5px;
+}
+footer{
+    background-color: #699AC9;
+}
+.partie1, .partie2{
+    display: inline-block;
+    vertical-align: top;
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    margin-left: 20px;
+}
+.partie1{
+    width: 40%;
+    border-right: 3px solid white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+}
+.partie1 img{
+    margin-right: 10px;
+    margin-left: 5px;
+}
+.partie2{
+    vertical-align: middle;
+    margin-top: 50px;
+    width: 50%;
+    margin-bottom: 20% ;
+    color: white;
+    font-weight: normal;
+    
+}
+.image_flottante{
+    float: left;
+    margin-right: 5px;
+}
+.partie2 p{
+    font-size: 30px;
+    width: 60%;
+}
+.image_coin{
+    margin-left: 75%;
+}
